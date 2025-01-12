@@ -1,0 +1,17 @@
+
+.sidebar{
+  width: 280px;
+  transition: 0.3s;
+}
+.small-sidebar{
+  width: 77px;
+}
+.small-sidebar .hidden-text-sidebar{
+  display: none;
+}
+
+/*logo*/
+.bi-lighting-charge{
+  rotate:360deg ;
+  transition: 1s;
+}
